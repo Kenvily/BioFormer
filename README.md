@@ -46,7 +46,7 @@ This personal repo mainly focuses on:
 @inproceedings{bioformer2026,
   title={BioFormer: Rethinking Cross-Subject Generalization via Spectral Structural Alignment in Biomedical Time-Series},
   author={Du, Guikang and Li, Haoran and Liu, Xinyu and Zhang, Zhibo and Gong, Xiaoli and Zhang, Jin},
-  booktitle={ICML},
+  booktitle={Forty-third International Conference on Machine Learning},
   year={2026}
 }
 ```
